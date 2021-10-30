@@ -1,3 +1,8 @@
+.body
+{
+  background-color: mediumaquamarine;
+}
+
 .copy_right_footer
 {
   position: fixed;
@@ -7,4 +12,17 @@
   background-color: grey;
   line-height: 3;
   text-align: center;
+}
+
+.img-responsive
+{
+  height:400px;
+  width:400px;
+}
+
+.test_image_and_result
+{
+  text-align: center;
+  font-size: 15px;
+  padding: 20px;
 }
